@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4d0025/WYG/v1/juan/35
+seq: 35
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 道
+  hash: sha256:00a9d5bd97c269b44f954c91d6a2f8afd4bcd35fa8b503c4af6fd1212f619c82
+metadata:
+  title: 范文正公集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-11 08:42:34.464444'
+  source:
+    repository: kanripo
+    path: KR4d0025/KR4d0025_035.txt
+hash: sha256:ea3123dc2624ae3ab21cff2f32a6746db124eec3422b12e01c7f5ffab3bb4b67

@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR4d0025/krp/v1/juan/26
+seq: 26
+front:
+  text: 文正公尺牘目録
+  hash: sha256:4f6bb57bad11b4ab19d38921e379d479485524db68a6ea05e99af7ce83e712fe
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4d0025_SBCK_026-1a}
+body:
+  text: 卷上家書中舍十六帖忠宣公一呫九國博一帖中書二子三監簿四太祝二帖朱氏十五帖指使魏佑一帖卷中與韓魏公共三十一帖卷下交游晏尚書三帖邵餗先生一帖諌院郭舍人一帖王狀元一帖石曼卿一帖曹都官一帖孫元規一帖孫明復一帖滕子京一帖李太白四帖張文定二帖陳水部一帖謝屯田二帖戚寺丞四帖知府太卿二帖蔡欽聖二帖工部同年二帖南陽著作一帖知郡職方三帖安撫內翰一帖翰長學士二帖安撫太保三帖李節推一帖通理虞部一帖仲儀待制三帖文鑒大師一帖朱校理一帖田元均一帖尹師魯二帖季寺丞一帖文正公尺牘目録
+  hash: sha256:f19251b57b7a203fd9081512a88f34580c369de2ba712daf4a24ac1b29a502af
+metadata:
+  title: 范文正公集
+  edition:
+    short: krp
+  base_edition: SBCK
+  date: '2015-09-11 08:42:34.464444'
+  source:
+    repository: kanripo
+    path: KR4d0025/KR4d0025_026.txt
+hash: sha256:3e5420bad94cfe16aa424b57a7168b846f89ad18e25365f0bf450be53d723617
