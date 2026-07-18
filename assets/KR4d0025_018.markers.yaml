@@ -95,6 +95,7 @@ markers:
   - {type: variant, offset: 271, length: 1, content: 冐, WYG: 冒}
   - {type: substitution, offset: 271, original: 冐, replacement: 冒, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16910}}
   - {type: punctuation, offset: 277, content: (, id: KR4d0025_krp_018-bkkpn1}
+  - {type: voice, offset: 277, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 279, content: ), id: KR4d0025_krp_018-bkkpn2}
   - {type: 'kr:newline', offset: 279, content: '
 
@@ -226,6 +227,7 @@ markers:
   - {type: line-break, offset: 618, content: '', id: KR4d0025_SBCK_018-2a09}
   - {type: variant, offset: 620, length: 1, content: 捐, SBCK: 􅂢}
   - {type: punctuation, offset: 628, content: (, id: KR4d0025_krp_018-bkkpn3}
+  - {type: voice, offset: 628, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 630, content: ), id: KR4d0025_krp_018-bkkpn4}
   - {type: 'kr:newline', offset: 630, content: '
 
@@ -420,6 +422,7 @@ markers:
   - {type: line-break, offset: 1191, content: '', id: KR4d0025_SBCK_018-3b02}
   - {type: punctuation, offset: 1191, content: (, id: KR4d0025_krp_018-bkkpn5}
   - {type: page-break, offset: 1191, content: '', id: KR4d0025_WYG_018-5a, image: WYG1089/WYG1089-0748a.png}
+  - {type: voice, offset: 1191, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 1193, content: ), id: KR4d0025_krp_018-bkkpn6}
   - {type: 'kr:newline', offset: 1193, content: '
 
@@ -907,6 +910,7 @@ markers:
   - {type: line-break, offset: 2549, content: '', id: KR4d0025_SBCK_018-6b06}
   - {type: variant, offset: 2550, length: 1, content: 禆, WYG: 裨}
   - {type: punctuation, offset: 2557, content: (, id: KR4d0025_krp_018-bkkpn7}
+  - {type: voice, offset: 2557, length: 2, name: note, id: n4}
   - {type: punctuation, offset: 2559, content: ), id: KR4d0025_krp_018-bkkpn8}
   - {type: 'kr:newline', offset: 2559, content: '
 
@@ -1078,6 +1082,7 @@ markers:
       ', id: KR4d0025_krp_018-bkkkrnewl174}
   - {type: line-break, offset: 3024, content: '', id: KR4d0025_SBCK_018-7b06}
   - {type: punctuation, offset: 3025, content: (, id: KR4d0025_krp_018-bkkpn9}
+  - {type: voice, offset: 3025, length: 2, name: note, id: n5}
   - {type: punctuation, offset: 3027, content: ), id: KR4d0025_krp_018-bkkpn10}
   - {type: 'kr:newline', offset: 3027, content: '
 
@@ -1195,6 +1200,7 @@ markers:
   - {type: line-break, offset: 3366, content: '', id: KR4d0025_SBCK_018-8a12}
   - {type: variant, offset: 3369, length: 1, content: 鑒, WYG: 鍳}
   - {type: punctuation, offset: 3385, content: (, id: KR4d0025_krp_018-bkkpn11}
+  - {type: voice, offset: 3385, length: 2, name: note, id: n6}
   - {type: punctuation, offset: 3387, content: ), id: KR4d0025_krp_018-bkkpn12}
   - {type: 'kr:newline', offset: 3387, content: '
 
@@ -1308,6 +1314,7 @@ markers:
       ', id: KR4d0025_krp_018-bkkkrnewl212}
   - {type: line-break, offset: 3705, content: '', id: KR4d0025_SBCK_018-9a05}
   - {type: punctuation, offset: 3712, content: (, id: KR4d0025_krp_018-bkkpn13}
+  - {type: voice, offset: 3712, length: 2, name: note, id: n7}
   - {type: punctuation, offset: 3714, content: ), id: KR4d0025_krp_018-bkkpn14}
   - {type: 'kr:newline', offset: 3714, content: '
 
@@ -1440,6 +1447,7 @@ markers:
   - {type: variant, offset: 4083, length: 0, content: '', WYG: 俞}
   - {type: variant, offset: 4084, length: 1, content: 俞, WYG: ''}
   - {type: punctuation, offset: 4093, content: (, id: KR4d0025_krp_018-bkkpn15}
+  - {type: voice, offset: 4093, length: 2, name: note, id: n8}
   - {type: punctuation, offset: 4095, content: ), id: KR4d0025_krp_018-bkkpn16}
   - {type: 'kr:newline', offset: 4095, content: '
 
@@ -1517,4 +1525,4 @@ markers:
   - {type: variant, offset: 4308, length: 0, content: '', WYG: 欽定四庫全書范文正集巻十九宋范仲淹撰状}
   - {type: page-break, offset: 4308, content: '', id: KR4d0025_WYG_019-1a, image: WYG1089/WYG1089-0753a.png}
   back: []
-hash: sha256:c65944de11ed3270a620642b8293d5fbb6cc44b89e12a1807064eccc47869192
+hash: sha256:706a17fc1665ebf81b476cee1bfe1354520508d8e182eb47a933fa66e214d2a5

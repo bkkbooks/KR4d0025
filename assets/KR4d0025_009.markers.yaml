@@ -47,6 +47,7 @@ markers:
   - {type: variant, offset: 51, length: 1, content: 其, WYG: 具}
   - {type: punctuation, offset: 63, content: (, id: KR4d0025_krp_009-bkkpn1}
   - {type: variant, offset: 63, length: 1, content: 閣, WYG: 閤}
+  - {type: voice, offset: 63, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 65, content: ), id: KR4d0025_krp_009-bkkpn2}
   - {type: 'kr:newline', offset: 65, content: '
 
@@ -1721,6 +1722,7 @@ markers:
       ', id: KR4d0025_krp_009-bkkkrnewl301}
   - {type: line-break, offset: 5600, content: '', id: KR4d0025_SBCK_009-12b04}
   - {type: punctuation, offset: 5605, content: (, id: KR4d0025_krp_009-bkkpn3}
+  - {type: voice, offset: 5605, length: 18, name: note, id: n2}
   - {type: punctuation, offset: 5614, content: /, id: KR4d0025_krp_009-bkkpn4}
   - {type: variant, offset: 5617, length: 1, content: 圗, WYG: 圖}
   - {type: punctuation, offset: 5623, content: ), id: KR4d0025_krp_009-bkkpn5}
@@ -1979,6 +1981,7 @@ markers:
       ', id: KR4d0025_krp_009-bkkkrnewl344}
   - {type: line-break, offset: 6414, content: '', id: KR4d0025_SBCK_009-14a08}
   - {type: punctuation, offset: 6419, content: (, id: KR4d0025_krp_009-bkkpn6}
+  - {type: voice, offset: 6419, length: 71, name: note, id: n3}
   - {type: substitution, offset: 6422, original: 寳, replacement: 寶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16794}}
   - {type: punctuation, offset: 6435, content: /, id: KR4d0025_krp_009-bkkpn7}
   - {type: variant, offset: 6435, length: 1, content: 懐, WYG: 懷}
@@ -2620,6 +2623,7 @@ markers:
   - {type: page-break, offset: 8426, content: '', id: KR4d0025_WYG_009-27a, image: WYG1089/WYG1089-0660c.png}
   - {type: substitution, offset: 8434, original: 諮, replacement: 咨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20401}}
   - {type: punctuation, offset: 8436, content: (, id: KR4d0025_krp_009-bkkpn12}
+  - {type: voice, offset: 8436, length: 4, name: note, id: n4}
   - {type: punctuation, offset: 8440, content: ), id: KR4d0025_krp_009-bkkpn13}
   - {type: 'kr:newline', offset: 8440, content: '
 
@@ -3102,4 +3106,4 @@ markers:
   - {type: variant, offset: 9957, length: 0, content: '', WYG: 欽定四庫全書范文正集巻十宋范仲淹撰祭文}
   - {type: page-break, offset: 9957, content: '', id: KR4d0025_WYG_010-1a, image: WYG1089/WYG1089-0663a.png}
   back: []
-hash: sha256:db6cd540d9c168ceab65bc234c24ee3461dcab86c2196fe4368258030817ff54
+hash: sha256:629817b62418932a891387d8c59a600a04587e647ec71adbf2d6f1033bc033a0

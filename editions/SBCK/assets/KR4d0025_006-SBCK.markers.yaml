@@ -13,6 +13,7 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KR4d0025_SBCK_006-1a02}
   - {type: indent, offset: 0, content: 　　　　, id: KR4d0025_SBCK_006-bkkind1}
   - {type: punctuation, offset: 5, content: (, id: KR4d0025_SBCK_006-bkkpn1}
+  - {type: voice, offset: 5, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 7, content: ), id: KR4d0025_SBCK_006-bkkpn2}
   - {type: 'kr:newline', offset: 7, content: '
 
@@ -292,6 +293,7 @@ markers:
       ', id: KR4d0025_SBCK_006-bkkkrnewl70}
   - {type: line-break, offset: 1300, content: '', id: KR4d0025_SBCK_006-3b06}
   - {type: punctuation, offset: 1303, content: (, id: KR4d0025_SBCK_006-bkkpn3}
+  - {type: voice, offset: 1303, length: 30, name: note, id: n2}
   - {type: punctuation, offset: 1318, content: /, id: KR4d0025_SBCK_006-bkkpn4}
   - {type: punctuation, offset: 1333, content: ), id: KR4d0025_SBCK_006-bkkpn5}
   - {type: 'kr:newline', offset: 1336, content: '
@@ -347,6 +349,7 @@ markers:
       ', id: KR4d0025_SBCK_006-bkkkrnewl83}
   - {type: line-break, offset: 1567, content: '', id: KR4d0025_SBCK_006-4a06}
   - {type: punctuation, offset: 1571, content: (, id: KR4d0025_SBCK_006-bkkpn6}
+  - {type: voice, offset: 1571, length: 37, name: note, id: n3}
   - {type: punctuation, offset: 1588, content: /, id: KR4d0025_SBCK_006-bkkpn7}
   - {type: punctuation, offset: 1605, content: ), id: KR4d0025_SBCK_006-bkkpn8}
   - {type: 'kr:newline', offset: 1605, content: '
@@ -847,6 +850,7 @@ markers:
       ', id: KR4d0025_SBCK_006-bkkkrnewl205}
   - {type: line-break, offset: 3793, content: '', id: KR4d0025_SBCK_006-8b11}
   - {type: punctuation, offset: 3794, content: (, id: KR4d0025_SBCK_006-bkkpn12}
+  - {type: voice, offset: 3794, length: 27, name: note, id: n4}
   - {type: punctuation, offset: 3808, content: /, id: KR4d0025_SBCK_006-bkkpn13}
   - {type: punctuation, offset: 3821, content: ), id: KR4d0025_SBCK_006-bkkpn14}
   - {type: 'kr:newline', offset: 3827, content: '
@@ -1377,4 +1381,4 @@ markers:
 
       ', id: KR4d0025_SBCK_006-bkkkrnewl336}
   back: []
-hash: sha256:926f0debba97926de9455aa3636b87dac93532c7171a41f2209bddb9287063d9
+hash: sha256:46088f6f4e8c017d872ffffde53ff486eb176651e0dc76a2b3af0227da410695

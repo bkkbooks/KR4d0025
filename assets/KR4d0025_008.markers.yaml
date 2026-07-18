@@ -30,6 +30,7 @@ markers:
   - {type: line-break, offset: 47, content: '', id: KR4d0025_SBCK_008-1a05}
   - {type: punctuation, offset: 52, content: (, id: KR4d0025_krp_008-bkkpn1}
   - {type: variant, offset: 52, length: 1, content: 閣, WYG: 閤}
+  - {type: voice, offset: 52, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 54, content: ), id: KR4d0025_krp_008-bkkpn2}
   - {type: 'kr:newline', offset: 68, content: '
 
@@ -2588,6 +2589,7 @@ markers:
   - {type: line-break, offset: 8518, content: '', id: KR4d0025_SBCK_008-18a02}
   - {type: punctuation, offset: 8519, content: (, id: KR4d0025_krp_008-bkkpn3}
   - {type: substitution, offset: 8519, original: 閤, replacement: 閣, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16996}}
+  - {type: voice, offset: 8519, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 8521, content: ), id: KR4d0025_krp_008-bkkpn4}
   - {type: variant, offset: 8525, length: 1, content: 蒙, SBCK: 􅀩}
   - {type: variant, offset: 8528, length: 1, content: 曾, WYG: 曽}
@@ -3399,4 +3401,4 @@ markers:
   - {type: variant, offset: 11137, length: 0, content: '', WYG: 欽定四庫全書范文正集巻九宋范仲淹撰書}
   - {type: page-break, offset: 11137, content: '', id: KR4d0025_WYG_009-1a, image: WYG1089/WYG1089-0647a.png}
   back: []
-hash: sha256:3cee7604b1b4c7db914965bd4f5c5daa497835977b637c7ac4fc4b50e43623d9
+hash: sha256:60d9eedcbb10628dbd67cf2384efe1ed9078a7da1fafe4e2f2eb2c8c909ce6a3

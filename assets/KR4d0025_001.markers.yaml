@@ -775,6 +775,7 @@ markers:
   - {type: line-break, offset: 2370, content: '', id: KR4d0025_SBCK_001-6a01}
   - {type: indent, offset: 2370, content: 　　　　, id: KR4d0025_krp_001-bkkind8}
   - {type: punctuation, offset: 2374, content: (, id: KR4d0025_krp_001-bkkpn1}
+  - {type: voice, offset: 2374, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 2376, content: ), id: KR4d0025_krp_001-bkkpn2}
   - {type: 'kr:newline', offset: 2376, content: '
 
@@ -892,6 +893,7 @@ markers:
   - {type: line-break, offset: 2675, content: '', id: KR4d0025_SBCK_001-6b06}
   - {type: indent, offset: 2675, content: 　　　　, id: KR4d0025_krp_001-bkkind9}
   - {type: punctuation, offset: 2678, content: (, id: KR4d0025_krp_001-bkkpn3}
+  - {type: voice, offset: 2678, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 2680, content: ), id: KR4d0025_krp_001-bkkpn4}
   - {type: 'kr:newline', offset: 2680, content: '
 
@@ -1606,6 +1608,7 @@ markers:
       ', id: KR4d0025_krp_001-bkkkrnewl261}
   - {type: line-break, offset: 4569, content: '', id: KR4d0025_SBCK_001-11a03}
   - {type: punctuation, offset: 4584, content: (, id: KR4d0025_krp_001-bkkpn5}
+  - {type: voice, offset: 4584, length: 4, name: note, id: n3}
   - {type: punctuation, offset: 4586, content: /, id: KR4d0025_krp_001-bkkpn6}
   - {type: punctuation, offset: 4588, content: ), id: KR4d0025_krp_001-bkkpn7}
   - {type: variant, offset: 4588, length: 1, content: 毀, WYG: 毁}
@@ -1843,6 +1846,7 @@ markers:
   - {type: line-break, offset: 5195, content: '', id: KR4d0025_SBCK_001-12b03}
   - {type: indent, offset: 5195, content: 　　　　, id: KR4d0025_krp_001-bkkind27}
   - {type: punctuation, offset: 5199, content: (, id: KR4d0025_krp_001-bkkpn8}
+  - {type: voice, offset: 5199, length: 4, name: note, id: n4}
   - {type: punctuation, offset: 5203, content: ), id: KR4d0025_krp_001-bkkpn9}
   - {type: 'kr:newline', offset: 5203, content: '
 
@@ -2220,4 +2224,4 @@ markers:
   - {type: variant, offset: 6210, length: 0, content: '', WYG: 欽定四庫全書范文正集巻二宋范仲淹撰古詩}
   - {type: page-break, offset: 6210, content: '', id: KR4d0025_WYG_002-1a, image: WYG1089/WYG1089-0563a.png}
   back: []
-hash: sha256:d98836b735c8848966a2dd01a88fde7ed4b76612852cc758fe664bcb6856ee58
+hash: sha256:f610c8a107cec1c67f08c48954932a59bbe682aae85d5ead35777162ac712f91

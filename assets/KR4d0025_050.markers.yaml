@@ -2004,6 +2004,7 @@ markers:
   - {type: line-break, offset: 6402, content: '', id: KR4d0025_SBCK_050-14a07}
   - {type: variant, offset: 6404, length: 1, content: 𥘉, SBCK: 􅀄}
   - {type: punctuation, offset: 6409, content: (, id: KR4d0025_krp_050-bkkpn1}
+  - {type: voice, offset: 6409, length: 4, name: note, id: n1}
   - {type: punctuation, offset: 6411, content: /, id: KR4d0025_krp_050-bkkpn2}
   - {type: punctuation, offset: 6413, content: ), id: KR4d0025_krp_050-bkkpn3}
   - {type: substitution, offset: 6416, original: 塾, replacement: 孰, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20187}}
@@ -3873,4 +3874,4 @@ markers:
   - {type: page-break, offset: 10999, content: '', id: KR4d0025_WYG_029-22a, image: WYG1089/WYG1089-0876c.png}
   - {type: page-break, offset: 10999, content: '', id: KR4d0025_WYG_029-22b, image: WYG1089/WYG1089-0876d.png}
   back: []
-hash: sha256:484d1c754d0edcb7cbdbd65faba27c0019fc5265dd59bcd4b2b64a0ed1194e5a
+hash: sha256:3c65d7bb5eb621642e2b5cc981c2a4f404f4fcf5467c7508c9d00fe8d916e2bf

@@ -42,6 +42,7 @@ markers:
       ', id: KR4d0025_SBCK_009-bkkkrnewl7}
   - {type: line-break, offset: 44, content: '', id: KR4d0025_SBCK_009-1a08}
   - {type: punctuation, offset: 63, content: (, id: KR4d0025_SBCK_009-bkkpn1}
+  - {type: voice, offset: 63, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 65, content: ), id: KR4d0025_SBCK_009-bkkpn2}
   - {type: 'kr:newline', offset: 65, content: '
 
@@ -1226,6 +1227,7 @@ markers:
       ', id: KR4d0025_SBCK_009-bkkkrnewl301}
   - {type: line-break, offset: 5600, content: '', id: KR4d0025_SBCK_009-12b04}
   - {type: punctuation, offset: 5605, content: (, id: KR4d0025_SBCK_009-bkkpn3}
+  - {type: voice, offset: 5605, length: 18, name: note, id: n2}
   - {type: punctuation, offset: 5614, content: /, id: KR4d0025_SBCK_009-bkkpn4}
   - {type: punctuation, offset: 5623, content: ), id: KR4d0025_SBCK_009-bkkpn5}
   - {type: 'kr:newline', offset: 5630, content: '
@@ -1402,6 +1404,7 @@ markers:
       ', id: KR4d0025_SBCK_009-bkkkrnewl344}
   - {type: line-break, offset: 6414, content: '', id: KR4d0025_SBCK_009-14a08}
   - {type: punctuation, offset: 6419, content: (, id: KR4d0025_SBCK_009-bkkpn6}
+  - {type: voice, offset: 6419, length: 71, name: note, id: n3}
   - {type: punctuation, offset: 6435, content: /, id: KR4d0025_SBCK_009-bkkpn7}
   - {type: punctuation, offset: 6451, content: ), id: KR4d0025_SBCK_009-bkkpn8}
   - {type: 'kr:newline', offset: 6451, content: '
@@ -1845,6 +1848,7 @@ markers:
   - {type: line-break, offset: 8426, content: '', id: KR4d0025_SBCK_009-18a12}
   - {type: indent, offset: 8426, content: 　　　　, id: KR4d0025_SBCK_009-bkkind18}
   - {type: punctuation, offset: 8436, content: (, id: KR4d0025_SBCK_009-bkkpn12}
+  - {type: voice, offset: 8436, length: 4, name: note, id: n4}
   - {type: punctuation, offset: 8440, content: ), id: KR4d0025_SBCK_009-bkkpn13}
   - {type: 'kr:newline', offset: 8440, content: '
 
@@ -2177,4 +2181,4 @@ markers:
 
       ', id: KR4d0025_SBCK_009-bkkkrnewl535}
   back: []
-hash: sha256:7bd4ce6f6cd20e0914427d9f9088bbcce10b0bd0dd50ddecaf17cd4942866fdf
+hash: sha256:f7be31732c44aef706eb5ac99530c2e1b138eeba2d81a96dac0feffa0ffaf17e

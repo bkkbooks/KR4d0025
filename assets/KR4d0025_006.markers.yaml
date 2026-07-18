@@ -14,6 +14,7 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KR4d0025_SBCK_006-1a02}
   - {type: indent, offset: 0, content: 　　　　, id: KR4d0025_krp_006-bkkind1}
   - {type: punctuation, offset: 5, content: (, id: KR4d0025_krp_006-bkkpn1}
+  - {type: voice, offset: 5, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 7, content: ), id: KR4d0025_krp_006-bkkpn2}
   - {type: 'kr:newline', offset: 7, content: '
 
@@ -443,6 +444,7 @@ markers:
       ', id: KR4d0025_krp_006-bkkkrnewl70}
   - {type: line-break, offset: 1300, content: '', id: KR4d0025_SBCK_006-3b06}
   - {type: punctuation, offset: 1303, content: (, id: KR4d0025_krp_006-bkkpn3}
+  - {type: voice, offset: 1303, length: 30, name: note, id: n2}
   - {type: punctuation, offset: 1318, content: /, id: KR4d0025_krp_006-bkkpn4}
   - {type: variant, offset: 1322, length: 1, content: 負, SBCK: 􅀒}
   - {type: variant, offset: 1332, length: 1, content: 增, WYG: 増}
@@ -530,6 +532,7 @@ markers:
   - {type: variant, offset: 1570, length: 1, content: 戸, WYG: 户}
   - {type: substitution, offset: 1570, original: 戸, replacement: 戶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20775}}
   - {type: punctuation, offset: 1571, content: (, id: KR4d0025_krp_006-bkkpn6}
+  - {type: voice, offset: 1571, length: 37, name: note, id: n3}
   - {type: variant, offset: 1579, length: 1, content: 倚, SBCK: 􅀝}
   - {type: variant, offset: 1587, length: 1, content: 戶, WYG: 户}
   - {type: punctuation, offset: 1588, content: /, id: KR4d0025_krp_006-bkkpn7}
@@ -1262,6 +1265,7 @@ markers:
       ', id: KR4d0025_krp_006-bkkkrnewl205}
   - {type: line-break, offset: 3793, content: '', id: KR4d0025_SBCK_006-8b11}
   - {type: punctuation, offset: 3794, content: (, id: KR4d0025_krp_006-bkkpn12}
+  - {type: voice, offset: 3794, length: 27, name: note, id: n4}
   - {type: variant, offset: 3806, length: 1, content: 邉, WYG: 邊}
   - {type: variant, offset: 3807, length: 1, content: 録, WYG: 錄}
   - {type: punctuation, offset: 3808, content: /, id: KR4d0025_krp_006-bkkpn13}
@@ -2132,4 +2136,4 @@ markers:
   - {type: variant, offset: 6223, length: 0, content: '', WYG: 欽定四庫全書范文正集巻七宋范仲淹撰記}
   - {type: page-break, offset: 6223, content: '', id: KR4d0025_WYG_007-1a, image: WYG1089/WYG1089-0621a.png}
   back: []
-hash: sha256:420698828091b1ff41e48cbc61678296eec71269dcd815179a9425ad537fcc2a
+hash: sha256:4fb099892ba619893794b2edd1558b391e5ee6f85541a960ca80270b887f1f4b

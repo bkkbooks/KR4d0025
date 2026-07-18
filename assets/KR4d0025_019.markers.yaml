@@ -150,6 +150,7 @@ markers:
   - {type: line-break, offset: 404, content: '', id: KR4d0025_SBCK_019-1b10}
   - {type: page-break, offset: 404, content: '', id: KR4d0025_WYG_019-2b, image: WYG1089/WYG1089-0753d.png}
   - {type: punctuation, offset: 405, content: (, id: KR4d0025_krp_019-bkkpn1}
+  - {type: voice, offset: 405, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 407, content: ), id: KR4d0025_krp_019-bkkpn2}
   - {type: 'kr:newline', offset: 407, content: '
 
@@ -274,6 +275,7 @@ markers:
   - {type: variant, offset: 751, length: 1, content: 飬, WYG: 養}
   - {type: variant, offset: 759, length: 1, content: 望, WYG: 仰}
   - {type: punctuation, offset: 761, content: (, id: KR4d0025_krp_019-bkkpn3}
+  - {type: voice, offset: 761, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 763, content: ), id: KR4d0025_krp_019-bkkpn4}
   - {type: 'kr:newline', offset: 763, content: '
 
@@ -695,6 +697,7 @@ markers:
   - {type: line-break, offset: 1992, content: '', id: KR4d0025_SBCK_019-5a07}
   - {type: page-break, offset: 1992, content: '', id: KR4d0025_WYG_019-7b, image: WYG1089/WYG1089-0756b.png}
   - {type: punctuation, offset: 1993, content: (, id: KR4d0025_krp_019-bkkpn5}
+  - {type: voice, offset: 1993, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 1995, content: ), id: KR4d0025_krp_019-bkkpn6}
   - {type: 'kr:newline', offset: 1995, content: '
 
@@ -786,6 +789,7 @@ markers:
   - {type: line-break, offset: 2233, content: '', id: KR4d0025_SBCK_019-5b08}
   - {type: variant, offset: 2238, length: 1, content: 衷, SBCK: 􅂨}
   - {type: punctuation, offset: 2244, content: (, id: KR4d0025_krp_019-bkkpn7}
+  - {type: voice, offset: 2244, length: 2, name: note, id: n4}
   - {type: punctuation, offset: 2246, content: ), id: KR4d0025_krp_019-bkkpn8}
   - {type: 'kr:newline', offset: 2246, content: '
 
@@ -1567,6 +1571,7 @@ markers:
       ', id: KR4d0025_krp_019-bkkkrnewl252}
   - {type: line-break, offset: 4636, content: '', id: KR4d0025_SBCK_019-10b06}
   - {type: punctuation, offset: 4645, content: (, id: KR4d0025_krp_019-bkkpn9}
+  - {type: voice, offset: 4645, length: 2, name: note, id: n5}
   - {type: punctuation, offset: 4647, content: ), id: KR4d0025_krp_019-bkkpn10}
   - {type: 'kr:newline', offset: 4647, content: '
 
@@ -1962,4 +1967,4 @@ markers:
   - {type: variant, offset: 5860, length: 0, content: '', WYG: 欽定四庫全書范文正集巻二十宋范仲淹撰賦}
   - {type: page-break, offset: 5860, content: '', id: KR4d0025_WYG_020-1a, image: WYG1089/WYG1089-0762c.png}
   back: []
-hash: sha256:cafa8ab1d31dad49c40803e064f146e684e93d1ffd91b7182713ca93d314d77f
+hash: sha256:8c10cab05f82648fe585b05c2cf47c5ed0f24d96910371e9cf411d924a40c122
